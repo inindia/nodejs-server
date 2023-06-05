@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "A customizable Node.js server implementation using the Express framework.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ININDIA CORPORATION",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
